@@ -1,6 +1,3 @@
----
-# 👋 Olá, eu sou Gabriel Henrique de Freitas Lopes
-
 
 Aqui compartilho meus projetos, aprendizados e interesses em **estatística, ciência de dados e programação**.
 
