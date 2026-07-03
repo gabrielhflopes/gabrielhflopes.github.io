@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-Olá! Meu nome é **Gabriel Henrique de Freitas Lopes**. Sou um entusiasta da área de dados, combinando os fundamentos teóricos da **Estatística** com o poder computacional da **Ciência de Dados** para transformar dados brutos em insights e decisões inteligentes.
+Olá! Meu nome é **Gabriel Henrique de Freitas Lopes**.Sou um estudante de Ciência de Dados  pela UFV e um entusiasta da matemática.
 
 Acredito que a estatística descritiva e a modelagem bem-feita são a base de qualquer solução sólida de IA ou Analytics. Por isso, foco em entender o comportamento dos dados antes de aplicar qualquer algoritmo.
 
