@@ -28,7 +28,7 @@ Aqui compartilho meus projetos, aprendizados e interesses em **estatística, ci�
 - Ciência de dados aplicada  
 - Modelagem estatística  
 - Visualização de dados  
-- Automação de análises  
+
 
 ---
 
