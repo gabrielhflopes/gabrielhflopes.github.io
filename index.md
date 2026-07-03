@@ -1,3 +1,9 @@
+---
+layout: single
+title: "👋 Olá, eu sou Gabriel Henrique de Freitas Lopes"
+permalink: /
+author_profile: true
+---
 
 Aqui compartilho meus projetos, aprendizados e interesses em **estatística, ciência de dados e programação**.
 
